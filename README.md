@@ -3,10 +3,10 @@
 On testing Stage
 
 # Mod Features
+* Stop Mining when Task Manager is oppen
 * Drop to appdata
 * Protect file
 * Protect process
-* Hide from Task Manager, Perfomance Monitor and other
 * Encrypted wallet and pool (integrated paramm)
 * Delete after drop
 * High performance
