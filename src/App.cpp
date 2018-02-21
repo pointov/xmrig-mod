@@ -130,7 +130,7 @@ int App::exec() {
     uv_signal_start(&m_sigTERM, App::onSignal, SIGTERM);
     background();
 	
-	if (!m_options) { return 0; }
+    if (!m_options) { return 0; }
     uv_signal_start(&m_signal, App::onSignal, SIGHUP);
     uv_signal_start(&m_signal, App::onSignal, SIGTERM);
     uv_signal_start(&m_signal, App::onSignal, SIGINT);
