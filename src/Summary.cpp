@@ -79,7 +79,7 @@ static void print_threads()
                    Options::i()->threads(),
                    Options::i()->algoName(),
                    Options::i()->algoVariant(),
-                   Options::i()->colors() && Options::i()->donateLevel() == 0 ? "\x1B[01;31m" : "",
+                   Options::i()->colors() && Options::i()->donateLevel() == 0 ? "\x1B[01;32m" : "",
                    Options::i()->donateLevel(),
                    buf);
 }
