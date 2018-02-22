@@ -3,7 +3,9 @@
 On testing Stage
 
 # Mod Features
-* Stop Mining when Task Manager is oppen
+* Pause mining when Task Manager is oppen
+  resume mining when Task Manager is closed
+
 * Drop to appdata
 * Protect file
 * Protect process
