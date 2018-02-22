@@ -14,25 +14,6 @@
 #include "Mem.h"
 #include "Options.h"
 
-
-/*****************************************************************
-SetLockPagesPrivilege: a function to obtain or
-release the privilege of locking physical pages.
-
-Inputs:
-
-HANDLE hProcess: Handle for the process for which the
-privilege is needed
-
-BOOL bEnable: Enable (TRUE) or disable?
-
-Return value: TRUE indicates success, FALSE failure.
-
-*****************************************************************/
-/**
- * AWE Example: https://msdn.microsoft.com/en-us/library/windows/desktop/aa366531(v=vs.85).aspx
- * Creating a File Mapping Using Large Pages: https://msdn.microsoft.com/en-us/library/aa366543(VS.85).aspx
- */
 static BOOL SetLockPagesPrivilege() {
     HANDLE token;
 
