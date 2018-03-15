@@ -38,13 +38,12 @@ Other cases oppen an issue!
 
 # Buy me a beer
 
-BTC:
- - 1PYwFZ25MhVimB1FkwAKF1Cdw5anuZ7BwF
+BTC:      
+1PYwFZ25MhVimB1FkwAKF1Cdw5anuZ7BwF
+  
+LTC:      
+LaBoLhDJN4LFWDQ9SjYwVDVg2KEUfSaWjT
  
-LTC:
- - LaBoLhDJN4LFWDQ9SjYwVDVg2KEUfSaWjT
-
-
 XMR:
 4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb
  
