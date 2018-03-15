@@ -17,9 +17,9 @@ On testing Stage
 * x86/x64 support
   - Many Devices
 * Support for backup (failover) mining server
-  -For a second address if the first fail
+  - For a second address if the first fail
 * Autorun or Autostart
-  -This is for start mining after turning on the machine (this work also with no user logged in)
+  - This is for start mining after turning on the machine (this work also with no user logged in)
 
 
 # Known Bugs:
@@ -39,13 +39,17 @@ Other cases oppen an issue!
 # Buy me a beer
 
 BTC:
+
 1PYwFZ25MhVimB1FkwAKF1Cdw5anuZ7BwF
 
 LTC:
+
 LaBoLhDJN4LFWDQ9SjYwVDVg2KEUfSaWjT
 
 XMR:
+
 4956NVBAzkGA8imVZzLYe7f65xG8HXiERGbbMEHqiqfqdyDFdjwqXVv8U1MHbiki6jjMzMUykNmYQLNUvEbkTJDU9miq5qb
 
 AEON:
+
 WmsStc2WoC1Koxehidwtbn43bSGuMaC6Vf73nXdUeMAJLG7WfhvFeEH7a3K4Az2WjHW9zL1E81eRJSRxqLpktY8t34utqxcGL
