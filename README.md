@@ -22,7 +22,8 @@ On testing Stage
   -This is for start mining after turning on the machine (this work also with no user logged in)
 
 
-Known Bugs:
+# Known Bugs:
+
 If not hashing please check if task manager is oppen! (remember that if it is oppen miner is paused!)
 
 Autorun not working?, please check register key entry and check the path of the file (remember that they have to match)
@@ -35,7 +36,7 @@ Other cases oppen an issue!
 
 
 
-Buy me a beer
+# Buy me a beer
 
 BTC: 1PYwFZ25MhVimB1FkwAKF1Cdw5anuZ7BwF
 LTC: LaBoLhDJN4LFWDQ9SjYwVDVg2KEUfSaWjT
